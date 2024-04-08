@@ -1,0 +1,34 @@
+
+
+{
+  "name": "v28-cli-numberguessinggame",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin" : "main.js",
+  
+  "publishconfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rabia",
+  "license": "ISC",
+  "keywords": [],
+  "description": "\"# v28-cli-number--guessing-game\"",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rabia-Ahmed18/rb-18-cli-number-guessing-game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rabia-Ahmed18/rb-18-cli-number-guessing-game/issues"
+  },
+  "homepage": "https://github.com/Rabia-Ahmed18/rb-18-cli-number-guessing-game#readme"
+}
